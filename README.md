@@ -7,7 +7,7 @@ So I decided to create this small extension that automatically saves all the wee
 
 ## Demo
 
-https://github.com/LSinus/PoliMi-To-Calendar/assets/88006098/cf31709e-b167-4885-a19c-739bf8442e88
+https://github.com/LSinus/PoliMi-To-Calendar/assets/88006098/d8b1aab1-ba32-4e02-9dd9-99a8a89b542e
 
 ## Privacy Policy
 
