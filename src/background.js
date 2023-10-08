@@ -52,7 +52,7 @@ async function createCalendar(token){
     },
     
     };
-    await fetch('https://www.googleapis.com/calendar/v3/calendars?maxMembers=20&key=AIzaSyDqdI5MSTXsS9r-N2o4qGPvKOdQpbMZIpw', init)
+    await fetch('https://www.googleapis.com/calendar/v3/calendars?maxMembers=20&key=APIKEY', init)
       .then(function(response) {
         if(!response.ok){
           throw new Error('HTTP error, state ' + response.status)
@@ -112,7 +112,7 @@ async function createEvent(token, data){
       },
       
       };
-      fetch('https://www.googleapis.com/calendar/v3/calendars/' + calendarID + '/events?maxMembers=20&key=AIzaSyDqdI5MSTXsS9r-N2o4qGPvKOdQpbMZIpw', init)
+      fetch('https://www.googleapis.com/calendar/v3/calendars/' + calendarID + '/events?maxMembers=20&key=APIKEY', init)
         .then(function(response) {
         if(!response.ok){
         throw new Error('HTTP error, state ' + response.status)
