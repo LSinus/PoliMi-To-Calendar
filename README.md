@@ -9,6 +9,9 @@ So I decided to create this small extension that automatically saves all the wee
 ## Install
 
 It is currently still under review by Google, as soon as it is published I will insert the installation link below.
+<br>
+<br>
+
 [**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
 
 ## Contribution
