@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Polimi To Calendar
+# <img src="public/icons/icon_48.png" width="45" align="left"> PoliMi To Calendar
 
 ## Description
 
@@ -7,7 +7,7 @@ So I decided to create this small extension that automatically saves all the wee
 
 ## Demo
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
 
 ## Privacy Policy
 
