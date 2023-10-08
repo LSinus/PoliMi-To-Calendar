@@ -5,6 +5,13 @@
 I am a student at Politecnico di Milano, every time at the beginning of the semester I find annoying to have to manually enter my weekly commitments into Google Calendar. 
 So I decided to create this small extension that automatically saves all the weekly timetable into your Google account. 
 
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+## Privacy Policy
+
+Since the extension requires access to the user's Google account, I attach the [privacy policy](https://leonardosinibaldi.com/PoliMiToCalendar/)
 
 ## Install
 
