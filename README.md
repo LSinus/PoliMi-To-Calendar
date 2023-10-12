@@ -15,7 +15,7 @@ Since the extension requires access to the user's Google account, I attach the [
 
 ## Install
 
-It is currently still under review by Google, as soon as it is published I will insert the installation link below.
+[Chrome Web Store](https://chrome.google.com/webstore/detail/polimi-to-calendar/ocaccbhchdiogfnjofhmeeblcejdokeg?hl=it) (By now the logIn service with Google is still under revision by google cloud team)
 <br>
 <br>
 
