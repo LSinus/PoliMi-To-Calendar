@@ -7,7 +7,7 @@ So I decided to create this small extension that automatically saves all the wee
 
 ## Demo
 
-
+https://github.com/LSinus/PoliMi-To-Calendar/assets/88006098/d8b1aab1-ba32-4e02-9dd9-99a8a89b542e
 
 ## Privacy Policy
 
@@ -15,7 +15,7 @@ Since the extension requires access to the user's Google account, I attach the [
 
 ## Install
 
-It is currently still under review by Google, as soon as it is published I will insert the installation link below.
+Install from [Chrome Web Store](https://chrome.google.com/webstore/detail/polimi-to-calendar/ocaccbhchdiogfnjofhmeeblcejdokeg?hl=it) (By now the logIn service with Google is still under revision by google cloud team)
 <br>
 <br>
 
