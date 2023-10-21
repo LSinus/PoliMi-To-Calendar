@@ -1,3 +1,7 @@
+require('dotenv').config();
+
+const API_KEY = process.env.API_KEY;
+
 currentCreationState = true 
 
 timeTableData = []
@@ -54,7 +58,7 @@ async function createCalendar(token){
     },
     
     };
-    await fetch('https://www.googleapis.com/calendar/v3/calendars?maxMembers=20&key=API_KEY', init)
+    await fetch('https://www.googleapis.com/calendar/v3/calendars?maxMembers=20&key=' + API_KEY, init)
       .then(function(response) {
         if(!response.ok){
           throw new Error('HTTP error, state ' + response.status)
@@ -114,7 +118,7 @@ async function createEvent(token, data){
       },
       
       };
-      fetch('https://www.googleapis.com/calendar/v3/calendars/' + calendarID + '/events?maxMembers=20&key=API_KEY', init)
+      fetch('https://www.googleapis.com/calendar/v3/calendars/' + calendarID + '/events?maxMembers=20&key=' + API_KEY, init)
         .then(function(response) {
         if(!response.ok){
         throw new Error('HTTP error, state ' + response.status)
