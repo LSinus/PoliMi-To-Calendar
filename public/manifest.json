@@ -16,15 +16,13 @@
   },
 
   "description": "A simple extension to automatically insert the PoliMi weekly timetable into Google Calendar",
-    "version": "0.1",
+    "version": "0.2",
     "action": {
       "defautl_title": "Poli-to-Calendar",
       "default_popup": "popup.html"
   },
   "permissions": [
-      "storage",
       "identity",
-      "scripting",
       "activeTab"
   ],
   "content_scripts": [
@@ -33,10 +31,6 @@
       "js": ["contentScript.js"],
       "matches": ["https://www13.ceda.polimi.it/oralez/oralez/controller/*"]
     }
-  ],
-  "options_ui": {
-    "page": "options.html",
-    "open_in_tab": "false"
-  }
+  ]
   
 }

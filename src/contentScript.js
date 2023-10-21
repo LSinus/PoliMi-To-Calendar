@@ -180,8 +180,8 @@ for (i = 0; i < data.length; i++){
     delete data[i]['to']
 }
 
-chrome.runtime.sendMessage({ type: "dict_lessons_data", data: data})
 
+chrome.runtime.sendMessage({ type: "dict_lessons_data", data: data})
 
 
 
